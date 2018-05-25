@@ -1,3 +1,4 @@
 name :tarak
-email: tarak@email.com
-phone no :12345678
+email:t@com
+E
+ph 
