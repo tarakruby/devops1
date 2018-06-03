@@ -1,7 +1,0 @@
-name :tarak
-email:t@com
-
-name:trrr
-nsjdj1
-E
-ph 
